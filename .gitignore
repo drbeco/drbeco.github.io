@@ -1,0 +1,6 @@
+_site
+/.gitignore
+/cache/*
+/tmp/*
+/*.txt
+

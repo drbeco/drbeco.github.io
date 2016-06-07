@@ -1,0 +1,19 @@
+name: Dr Beco GitHub Blog 
+pygments: true
+exclude: [vendor]
+permalink: /:categories/:title.html
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  -
+    scope:
+        path: ""      # all paths
+        type: "posts" # but only for posts
+    values:
+        layout: "my-site"
+        author: "Dr. Beco"
+
+# See
+# http://jekyllrb.com/docs/configuration/#front-matter-defaults
+
