@@ -13,7 +13,6 @@ categories: upe
 
 ### Usuários cadastrados e sua atividade:
 
-![Image 1]({{ site.url }}/images/github-users-1.png)
 ![Image 2]({{ site.url }}/images/github-users-2.png)
 ![Image 3]({{ site.url }}/images/github-users-3.png)
 ![Image 4]({{ site.url }}/images/github-users-4.png)
@@ -66,8 +65,4 @@ categories: upe
 ![Image 51]({{ site.url }}/images/github-users-51.png)
 ![Image 52]({{ site.url }}/images/github-users-52.png)
 ![Image 53]({{ site.url }}/images/github-users-53.png)
-
-
-
-
 
