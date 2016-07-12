@@ -122,7 +122,7 @@ Antes de cada função, coloque comentários na sintaxe _DOXYGEN_. O mínimo nec
 * Data que foi escrita/modificada: `@date` (formato YYYY-MM-DD, ano, mes, dia)
 * Opcional, caso diferente do resto do código, colocar a licença de _copyright_: `@copyright`
 
-O exemplo [acima](#linguage-c) mostra somente os campos _obrigatórios_, e descreve hipotéticas variáveis como parâmetros.
+O exemplo [acima](#linguagem-c) mostra somente os campos _obrigatórios_, e descreve hipotéticas variáveis como parâmetros.
 
 ### No meio do código
 
