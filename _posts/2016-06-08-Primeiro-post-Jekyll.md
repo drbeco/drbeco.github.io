@@ -11,6 +11,18 @@ Codigo em `linha` com acentos graves, e tantas outras facilidades da linguagem _
 
 Jekyll também oferece suporte para código fonte:
 
+{% highlight C %}
+int main(int argc, char **argv)
+{
+    int d;
+
+    d=getchar();
+    putchar(d);
+
+    return EXIT_SUCCESS;
+}
+{% endhighlight %}
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
