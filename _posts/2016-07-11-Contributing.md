@@ -236,22 +236,28 @@ A ordem que o esqueleto do programa deve ter é como segue:
 ```
 Faz um exemplo para demonstrar a clareza do commit
 
-Sem este commit a explicação sobre mensagens de commit ficaria falha, sem um exemplo concreto. 
-Este é um problema, porque assim fica apenas na imaginação o que seria um bom commit. 
-Este commit corrige este problema ao fazer aqui um exemplo concreto e imperativo.
+Sem este commit a explicação sobre mensagens de commit ficaria 
+falha, sem um exemplo concreto. Este é um problema, porque assim 
+fica apenas na imaginação o que seria um bom commit.Este commit 
+corrige este problema ao fazer aqui um exemplo concreto e imperativo.
 
-A primeira linha é um título imperativo descritivo do essencial. Os dois parágrafos seguintes, 
-o de cima e este, são explicações mais aprofundadas. É importante descrever (1) _o que ocorria_ 
-antes do commit, (2) _qual_ é o problema que este commit resolve, (3) _porque_ este comportamento 
-é problemático, e (3) _como_ este commit corrige este problema.
+A primeira linha é um título imperativo descritivo do essencial. 
+Os dois parágrafos seguintes, o de cima e este, são explicações mais 
+aprofundadas. É importante descrever:
 
-Também é possível usar enumerações para clarificar algumas mudanças em pontos 
-específicos, como:
+(1) _o que ocorria_ antes do commit, 
+(2) _qual_ é o problema que este commit resolve, 
+(3) _porque_ este comportamento é problemático, e 
+(4) _como_ este commit corrige este problema.
+
+Também é possível usar enumerações para clarificar algumas mudanças 
+em pontos específicos, como:
 
 * mudafunc() : agora não retorna mais void e sim o código do cliente
-* funcoutra() : criada para cumprir outra finalidade que estava faltando
-* divideaqui() : criada para cumprir uma finalidade tal e tal que antes 
-estava sendo feita na função mudafunc() de modo a ficar mais clara a divisão do que cada função faz.
+* funcoutra() : criada para cumprir outra finalidade que faltava
+* divideaqui() : criada para cumprir uma finalidade tal e tal que 
+antes estava sendo feita na função mudafunc() de modo a ficar mais 
+clara a divisão do que cada função faz.
 ```
 
 Lembre que a primeira linha é importante para ver o _log_ e acompanhar a evolução do programa.
