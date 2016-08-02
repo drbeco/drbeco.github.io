@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Como contribuir com um repositório"
+title:  "Série Contribuindo: como contribuir com um repositório"
 date:   2016-07-11 21:04:29
-categories: github guide
+categories: github guide contributing
 ---
 
-# Como contribuir
+# Série: Contribuindo
+
+## Importância, peculiaridades e diferenças
 
 Sua contribuição aos códigos disponíveis no github é essencial para tornar estes programas cada vez melhores. Além disso, é difícil para apenas um desenvolvedor testar a imensa quantidade de plataformas e a miríade de configurações existentes. Este guia está aqui para tornar mais simples sua contribuição e aumentar as chances dela ser aceita. Há apenas algumas regras que precisamos para que consigamos manter a organização e o controle do código, então basta seguir este pequeno guia de 'Como contribuir'.
 
