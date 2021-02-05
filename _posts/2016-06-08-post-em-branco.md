@@ -6,7 +6,7 @@ layout: post
 post_status: publish
 menu_order: 1
 taxonomy:
-    category: test jekyll
+    category: test, jekyll
 
 ---
 
