@@ -2,7 +2,7 @@
 layout: post
 title:  "Série Contribuindo: uma boa mensagem de _commit_"
 date:   2016-07-16 23:06:58
-categories: github guide contributing
+category: github guide contributing
 ---
 
 # Série: Contribuindo

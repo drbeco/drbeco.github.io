@@ -11,6 +11,8 @@ Codigo em `linha` com acentos graves, e tantas outras facilidades da linguagem _
 
 Jekyll também oferece suporte para código fonte:
 
+Exemplo com código em C:
+
 ```C
 int main(int argc, char **argv)
 {
@@ -22,6 +24,8 @@ int main(int argc, char **argv)
     return EXIT_SUCCESS;
 }
 ```
+
+Exemplo com código em Ruby:
 
 ```ruby
 def print_hi(name)

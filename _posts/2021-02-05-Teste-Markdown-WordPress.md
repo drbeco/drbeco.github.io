@@ -1,11 +1,14 @@
 ---
-layout: post
-title:  "Post Wordpress"
+
+title:  "Post Wordpress 1"
 date:   2021-02-05 07:56:15
-post_status: draft
+layout: post
+post_status: publish
+menu_order: 1
 taxonomy:
-    categories:
-        - wordpress
+    category: blog
+    post_tag: wordpress
+
 ---
 
 # Post de teste para publicar usando git push 

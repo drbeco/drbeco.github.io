@@ -2,7 +2,7 @@
 layout: post
 title:  "Série Contribuindo: como contribuir com um repositório"
 date:   2016-07-11 21:04:29
-categories: github guide contributing
+category: github guide contributing
 ---
 
 # Série: Contribuindo
@@ -50,7 +50,7 @@ Tenha certeza de que sua conta está devidamente configurada. Cheque os seguinte
 
 O estilo _Allman_ é um entre mais de 15 estilos e variantes disponíveis e encontradas em vários tipos de código. Não misture os estilos. Este estilo utiliza a seguinte sintaxe, chamada de _broken brackets_ (ou chaves quebradas). Atente para os espaços entre operadores e mudanças de linhas no exemplo abaixo:
 
-{% highlight C %}
+```C
 /**
  * @ingroup Modulo
  * @brief Breve descricao
@@ -80,7 +80,7 @@ int foonc(int is_bar[MAX], int x, char *z)
     else
         return 0;
 }
-{% endhighlight %}
+```
 
 Conheça todos os estilos na [página de documentação do astyle](http://astyle.sourceforge.net/astyle.html).
 
