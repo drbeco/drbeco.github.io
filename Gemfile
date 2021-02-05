@@ -6,6 +6,7 @@ gem 'github-pages'
 gem 'jekyll'
 gem 'RedCloth'
 gem 'thin'
+gem 'redcarpet', '>= 3.5.1'
 
 #Github example
 #source "https://rubygems.org"
