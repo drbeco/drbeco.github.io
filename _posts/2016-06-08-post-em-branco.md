@@ -1,8 +1,13 @@
 ---
-layout: post
+
 title:  "Post em branco"
 date:   2016-06-08 07:56:15
-category: test jekyll
+layout: post
+post_status: publish
+menu_order: 1
+taxonomy:
+    category: test jekyll
+
 ---
 
 # Post está em branco
