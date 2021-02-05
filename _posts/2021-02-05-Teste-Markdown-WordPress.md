@@ -1,7 +1,7 @@
 ---
 
-title:  "Post Wordpress 1"
-date:   2021-02-05 07:56:15
+title: "Post Wordpress 1"
+date: 2021-02-05 07:56:15
 layout: post
 post_status: publish
 menu_order: 1

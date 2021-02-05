@@ -1,9 +1,11 @@
 ---
-title:  "Primeiro post com Jekyll"
-date:   2016-06-08 18:17:37
+
+title: "Primeiro post com Jekyll"
+date: 2016-06-08 18:17:37
 layout: post
 taxonomy:
     category: blog
+
 ---
 
 Formato para nomes dos posts: YYY-MM-DD-titulo-do-post.md
@@ -14,7 +16,7 @@ Jekyll também oferece suporte para código fonte:
 
 Exemplo com código em C:
 
-```C
+```c
 int main(int argc, char **argv)
 {
     int d;
