@@ -2,7 +2,7 @@
 layout: post
 title:  "Primeiro post com Jekyll"
 date:   2016-06-08 18:17:37
-categories: blog
+category: blog
 ---
 
 Formato para nomes dos posts: YYY-MM-DD-titulo-do-post.md
