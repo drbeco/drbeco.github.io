@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 gem 'github-pages'
-gem 'jekyll'
+gem 'jekyll', '>=3.6.3'
 gem 'RedCloth', '>= 4.3.0'
 gem 'thin'
 gem 'redcarpet', '>= 3.5.1'
