@@ -4,7 +4,7 @@ ruby '2.0.0'
 
 gem 'github-pages'
 gem 'jekyll'
-gem 'RedCloth'
+gem 'RedCloth', '>= 4.3.0'
 gem 'thin'
 gem 'redcarpet', '>= 3.5.1'
 
